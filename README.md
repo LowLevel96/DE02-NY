@@ -1,7 +1,7 @@
 # DE02-NY
 **Core Java**
 
-- Project name is CreditCardSystem.
+- Project name is CCSystem.
 - Open project in your IDE and be sure to change the database parameters.
   - **oo** In database package go to DatabaseConnection.java file and change database name as well as username and password if needed.
 - Clean and Build project
