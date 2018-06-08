@@ -47,8 +47,8 @@
 - Transfer directory /OozieWorkflow and /HiveImports to both local and hdfs path:
   -
     -
-      - Type: hadoop fs put OozieWorkflow/ /user/maria\_dev/
-      - Type: hadoop fs put HiveImports/ /user/maria\_dev/
+      - Type: hadoop fs --put OozieWorkflow/ /user/maria\_dev/
+      - Type: hadoop fs --put HiveImports/ /user/maria\_dev/
 
 - --Upload java-json.jar file:
   - **oo** There will be file java-json.jar
